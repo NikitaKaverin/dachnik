@@ -1,12 +1,13 @@
 #ОБ-МО-31
-Фото | ФИО | 16.03.19 | 17.03.19 | 18.03.19
----- | --- | -------- | -------- | --------
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiNwu3X-4XhAhUB0qYKHbN1BqUQjRx6BAgBEAU&url=https%3A%2F%2Fmemepedia.ru%2Fmemy-s-yajcom%2F&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Акишина Мария Николаевна | Пропустил | Пропустил | Посетил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjQ1evd-4XhAhWw1aYKHWXKCycQjRx6BAgBEAU&url=https%3A%2F%2Fmemepedia.ru%2Fparker-face%2F&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Алексеев Константин Алексеевич | Посетил | Пропустил | Посетил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjwo4bi-4XhAhXIR5oKHUs-BmsQjRx6BAgBEAU&url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fotkuda_vzyalsya_yeto_chyortov_mem_2157031&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Иванов Илья Сергеевич | Посетил | Посетил | Посетил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwimwLTD-4XhAhWyy6YKHZ8VDYAQjRx6BAgBEAU&url=https%3A%2F%2Fmemepedia.ru%2Frikardo-milos%2F&psig=AOvVaw1vqtbFy-LG8K8o3DsXkNjT&ust=1552801774566326)| Каверин Никита Валерьевич | Пропустил | Пропустил | Пропустил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiun9b_-4XhAhUq4aYKHS_VAegQjRx6BAgBEAU&url=https%3A%2F%2Fwomanadvice.ru%2Fchto-takoe-mem-i-zachem-nuzhen&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Мукашев Артур Алтынбекович | Посетил | Посетил | Посетил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&ved=2ahUKEwiu67Lu-4XhAhWawMQBHQTKBrUQjRx6BAgBEAU&url=http%3A%2F%2Frisovach.ru%2Fmem-generators%2F2&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Мурзаков Алексей Эдуартович | Посетил | Посетил | Посетил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi0vY2G_IXhAhUxysQBHch9ASsQjRx6BAgBEAU&url=http%3A%2F%2F2fan.ru%2Fmeme%2Fmem-dzherri.html&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Поношев Куаныш Гайнитуллович | Пропустил | Пропустил | Пропустил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjR6Yf3-4XhAhXE0qYKHS0zBGsQjRx6BAgBEAU&url=https%3A%2F%2Fmemepedia.ru%2Fkalyvan%2F&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Сорокин Евгений Сергеевич | Посетил | Посетил | Пропустил
-![alt text](https://www.google.ru/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjRrI3n-4XhAhWS2aYKHauSBg0QjRx6BAgBEAU&url=https%3A%2F%2F360tv.ru%2Fnews%2Ftekst%2Frusskie-dovedut-momo-do-suitsida%2F&psig=AOvVaw3pCw0EzwKU7VOQPRDG1KYB&ust=1552801787774614)| Шовалиева Камилла Фарходовна | Посетил | Пропустил | Посетил
+
+|Фото | ФИО | 16.03.19 | 17.03.19 | 18.03.19|
+|---- | ---- | ---- | ---- | ----|
+|![alt text](https://memepedia.ru/wp-content/uploads/2019/01/mem-yaytso.jpg)| Акишина Мария Николаевна | Пропустил | Пропустил | Посетил|
+|![alt text](https://memepedia.ru/wp-content/uploads/2017/03/mem-piter-parker.jpg)| Алексеев Константин Алексеевич | Посетил | Пропустил | Посетил|
+|![alt text](https://cs4.pikabu.ru/post_img/2014/04/08/4/1396930965_116577408.jpg)| Иванов Илья Сергеевич | Посетил | Посетил | Посетил|
+|![alt text](https://memepedia.ru/wp-content/uploads/2018/10/meme12-5.jpg)| Каверин Никита Валерьевич | Пропустил | Пропустил | Пропустил|
+|![alt text](https://memepedia.ru/wp-content/uploads/2018/08/205893025_68f1fb410b73621bf94dd645b6ed2735_800-768x468.jpg)| Мукашев Артур Алтынбекович | Посетил | Посетил | Посетил|
+|![alt text](http://2fan.ru/upload/000/u1/f8/0d/mem-dzherri-photo-big.jpg)| Мурзаков Алексей Эдуартович | Посетил | Посетил | Посетил|
+|![alt text](http://risovach.ru/thumb/upload/240c240/2016/08/generator/pamagiti_121750753_orig_.jpg)| Поношев Куаныш Гайнитуллович | Пропустил | Пропустил | Пропустил|
+|![alt text](https://www.meme-arsenal.com/memes/888bf41b5445e06ae5f1768defd85369.jpg)| Сорокин Евгений Сергеевич | Посетил | Посетил | Пропустил|
+|![alt text](http://risovach.ru/thumb/upload/240c240/2017/02/generator/oo_136389863_orig_.jpg)| Шовалиева Камилла Фарходовна | Посетил | Пропустил | Посетил|
