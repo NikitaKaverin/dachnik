@@ -2,7 +2,6 @@
 
 |Фото|ФИО|16.03.2019|  
 |----|----|----|
-
 |![Text](http://image2.thematicnews.com/uploads/topics/preview/00/01/80/70/2e5dcb471e.jpg )| **Алексеев Константин Алексеевич** | Присутствовал |
 |![Text](http://image2.thematicnews.com/uploads/topics/preview/00/01/80/70/2e5dcb471e.jpg )| **Акишина Мария Николаевна**| Отсутствовала|
 |![Text](http://image2.thematicnews.com/uploads/topics/preview/00/01/80/70/2e5dcb471e.jpg )| **Каверин Нитита Валерьевич**| Отсутствовала|
