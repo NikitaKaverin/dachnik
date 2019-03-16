@@ -10,4 +10,4 @@
 |![alt text](http://2fan.ru/upload/000/u1/f8/0d/mem-dzherri-photo-big.jpg)| Мурзаков Алексей Эдуартович | Посетил | Посетил | Посетил|
 |![alt text](http://risovach.ru/thumb/upload/240c240/2016/08/generator/pamagiti_121750753_orig_.jpg)| Поношев Куаныш Гайнитуллович | Пропустил | Пропустил | Пропустил|
 |![alt text](https://www.meme-arsenal.com/memes/888bf41b5445e06ae5f1768defd85369.jpg)| Сорокин Евгений Сергеевич | Посетил | Посетил | Пропустил|
-|![alt text](http://gvzm-nasledie.ru/wp/wp-content/uploads/4.jpeg)| Шовалиева Камилла Фарходовна | Посетил | Пропустил | Посетил|
+|![alt text](http://risovach.ru/thumb/upload/240c240/2017/02/generator/oo_136389863_orig_.jpg)| Шовалиева Камилла Фарходовна | Посетил | Пропустил | Посетил|
